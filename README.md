@@ -4,7 +4,7 @@ The code from the Machine Learning Bookcamp book
 
 Useful links: 
 
-* [https://mlbookcamp.com](https://mlbookcamp.com): supplimentary materials
+* [https://mlbookcamp.com](https://mlbookcamp.com): supplementary materials
 * [https://datatalks.club](https://datatalks.club): the place to talk about data (and the book: join the `#ml-bookcamp` channel to ask questions about the book and report any problems)
 
 
@@ -177,7 +177,7 @@ Articles from [mlbookcamp.com](https://mlbookcamp.com):
 * [Introduction to NumPy](https://mlbookcamp.com/article/numpy)
 
 
-## Appendix C: Introduction to Pandas
+## Appendix D: Introduction to Pandas
 
 * The main data structures in Pandas: DataFrame and Series
 * Accessing rows and columns of a DataFrame
