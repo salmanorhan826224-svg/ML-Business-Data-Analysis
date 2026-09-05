@@ -192,3 +192,4 @@ Code: [appendix-d-pandas.ipynb](appendix-d-pandas.ipynb)
 
 * Increasing the GPU quota limits
 * Renting a Jupyter notebook with GPU in AWS SageMaker
+
